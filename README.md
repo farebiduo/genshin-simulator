@@ -4,3 +4,9 @@ While farming for artifacts a lot of us might have came across crossroads where 
 This project aims to predict the final stats of your favourite genshin character after giving or removing certain equipments and increasing or decreasing the level.
 The aim is to choose a character then select the level, equip it with a weapon and give it artifacts with main and sub-stats of our choice so we know which artifacts are better. 
 The front end is supposed to be made in HTML, CSS and Js. As for the backend we are planning to use SQL tables for ascension stats of the characters.
+
+
+
+
+#COPYRIGHT
+We do not own any of the characters, idea for the game, videos or audios used in the project. All the rights goes to their respective owners. 
